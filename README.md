@@ -1,3 +1,3 @@
 # picniquou
-Site web regroupant les tables de pic-nique de france
+Site web regroupant les tables de pique-nique de france
 
